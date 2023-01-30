@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerard-007" alt="gerard-007" /></a> </p>
 
+<img align="right" width="300" src="https://res.cloudinary.com/geetechlab-com/image/upload/v1675074070/geetech/giphy_yjlzek.gif" width="480" height="360"/>
+
 - 🌱 I’m currently learning **React-Native**
 
 - 👯 I’m looking to collaborate on **Mobile App, Backend & Web3 Based Projects**
@@ -19,8 +21,6 @@
 - 📫 How to reach me **gerardnwazk@gmail.com**
 
 - ⚡ Fun fact **I am a gamer(pro)**
-
-<img align="right" width="300" src="https://res.cloudinary.com/geetechlab-com/image/upload/v1675074070/geetech/giphy_yjlzek.gif" width="480" height="360"/>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
