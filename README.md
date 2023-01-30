@@ -1,10 +1,10 @@
 
-<img align="center" width="500" height="200" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif"/>
+<img align="center" width="1000" height="200" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif"/>
 
 <h1 align="center">Hi 👋, I'm Gerard</h1>
 <h3 align="center">Senior Fullstack(BE Heavy), Web3 And DevOps Engineer</h3>
 
-<img align="right" width="300" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360"/>
+<img align="right" width="300" src="[https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://res.cloudinary.com/geetechlab-com/image/upload/v1675074070/geetech/giphy_yjlzek.gif)" width="480" height="360"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerard-007&label=Profile%20views&color=0e75b6&style=flat" alt="gerard-007" /> </p>
 
