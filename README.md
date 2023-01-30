@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Gerard</h1>
 <h3 align="center">Senior Fullstack(BE Heavy), Web3 And DevOps Engineer</h3>
 
-<img align="right" width="300" src="https://res.cloudinary.com/geetechlab-com/image/upload/v1675074070/geetech/giphy_yjlzek.gif" width="480" height="360"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerard-007&label=Profile%20views&color=0e75b6&style=flat" alt="gerard-007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerard-007" alt="gerard-007" /></a> </p>
@@ -21,6 +19,8 @@
 - 📫 How to reach me **gerardnwazk@gmail.com**
 
 - ⚡ Fun fact **I am a gamer(pro)**
+
+<img align="right" width="300" src="https://res.cloudinary.com/geetechlab-com/image/upload/v1675074070/geetech/giphy_yjlzek.gif" width="480" height="360"/>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
