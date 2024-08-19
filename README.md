@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/geetechlab](https://dev.to/geetechlab)
 
-- 💬 Ask me about **Python, Django, Javascript, Dart and Flutter**
+- 💬 Ask me about **Java, Go Lang, Python, Django, Javascript, Flutter/Dart**
 
 - 📫 How to reach me **gerardnwazk@gmail.com**
 
