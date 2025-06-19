@@ -174,6 +174,9 @@
   </a>
 </p>
 
+![Go](https://img.shields.io/badge/Code-Golang-blue?logo=go)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerard-007&show_icons=true&locale=en&layout=compact" alt="gerard-007" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerard-007&show_icons=true&locale=en&layout=compact" alt="gerard-007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gerard-007&show_icons=true&locale=en" alt="gerard-007" /></p>
