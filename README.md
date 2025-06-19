@@ -25,27 +25,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- Standout Badges Section -->
-<p align="left">
-  <!-- Go -->
-  ![Go](https://img.shields.io/badge/Code-Golang-blue?logo=go)
-  <!-- Python -->
-  ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
-  <!-- Java -->
-  ![Java](https://img.shields.io/badge/Code-Java-red?logo=java)
-  <!-- C# -->
-  ![C#](https://img.shields.io/badge/Code-C%23-239120?logo=c-sharp&logoColor=white)
-  <!-- JavaScript -->
-  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  <!-- ReactJS -->
-  ![ReactJS](https://img.shields.io/badge/Framework-ReactJS-61DAFB?logo=react&logoColor=black)
-  <!-- React Native -->
-  ![React Native](https://img.shields.io/badge/Framework-React_Native-61DAFB?logo=react&logoColor=black)
-  <!-- Flutter/Dart -->
-  ![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Code-Dart-0175C2?logo=dart&logoColor=white)
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@geetechlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@geetechlab" height="30" width="40" /></a>
@@ -193,7 +172,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>mos
   </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
